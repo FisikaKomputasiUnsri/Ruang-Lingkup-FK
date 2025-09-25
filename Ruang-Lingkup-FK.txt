@@ -1,0 +1,13 @@
+Ruang Lingkup Fisika Komputasi
+- Ruang lingkup Fisika Komputasi bersifat interdisipliner dan luas, menerapkan simulasi komputer dan analisis numerik untuk memecahkan masalah fisika kompleks di berbagai bidang seperti astrofisika, ilmu material, pemodelan iklim, dan pencitraan medis. Fisika komputasi berfungsi sebagai jembatan penting antara fisika teoretis dan eksperimental, memungkinkan mempelajari fenomena tertentu yang secara analitis tidak dapat dipecahkan atau terlalu kompleks untuk melakukan eksperimen langsung, dan mendorong kemajuan di berbagai bidang, mulai dari dinamika fluida hingga mekanika kuantum.
+
+- Aspek Utama 
+- Keseimbangan Teoretis dan Eksperimental: Fisika komputasi mengembangkan dan memanfaatkan model dan simulasi matematika yang canggih, melengkapi pendekatan teoretis dan eksperimental tradisional untuk investigasi ilmiah.
+- Sifat Interdisipliner: Fisika komputasi mendorong interaksi antara fisikawan, matematikawan, dan ilmuwan komputer, yang membutuhkan keahlian dalam fisika, matematika, dan bahasa pemrograman seperti Python, C++, atau Fortran. Dalam web ini kita hanya menggunakan Bahasa Python seperti penggunaan Google Colabs dalam pemecahan permasalahan fisika.
+- Simulasi Sistem Kompleks: Bidang ini mengkhususkan diri dalam pembuatan dan pengoperasian model dan simulasi komputer yang kompleks untuk memahami dan memprediksi perilaku sistem fisik, mulai dari partikel subatom hingga galaksi.
+- Perangkat Komputasi Canggih: Fisika komputasi memanfaatkan komputasi kinerja tinggi (high-performance) untuk kumpulan data masif, algoritma canggih seperti simulasi Monte Carlo dan metode beda hingga, metode Newtonian serta perangkat visualisasi untuk menginterpretasikan hasil.
+
+- Bidang Aplikasi
+- Aplikasi fisika komputasi meliputi: Astrophysics and Cosmology, Materials Science, Climate Science, Energy , Medical Physics , Biophysics, dan Fluid Dynamics
+
+ 
